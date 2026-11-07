@@ -8,7 +8,7 @@ A responsive weather dashboard built with Vite and vanilla JavaScript.
 - Hourly weather outlook
 - City search
 - Precise browser location support
-- Celsius/Fahrenheit switching
+- Celsius
 - Sunrise and sunset details
 - Offline fallback forecast
 
@@ -20,15 +20,6 @@ Open PowerShell in this folder and run:
 npm install
 npm run dev
 ```
-
-Open the local URL shown by Vite, usually:
-
-```text
-http://127.0.0.1:5173/
-```
-
-If that port is already in use, Vite will select another available port and display it in the terminal.
-
 ## Production Build
 
 Create a production build with:
